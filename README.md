@@ -1,6 +1,6 @@
 # Hi, I'm Kevin! 👋
 
-I'm a recent graduate from The University of Auckland. I studied a Bachelor of Science majoring in Computer Science.
+I'm a graduate from The University of Auckland. I studied a Bachelor of Science majoring in Computer Science.
 
 ## My Toolkit:
 
